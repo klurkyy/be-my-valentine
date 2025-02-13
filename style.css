@@ -9,7 +9,7 @@ html {
 }
 
 body {
-  background-image: url('img/valentinesbg.jpg');
+  background-image: url('img/valentinesbg1.jpg');
   font-family: "Protest Riot", sans-serif;
 }
 
@@ -35,7 +35,7 @@ body {
   text-align: center;
   margin-bottom: 2rem;
   outline-color: black;
-  outline-width: 1cap;
+  outline-width: 2dvh;
 }
 
 .buttons {
