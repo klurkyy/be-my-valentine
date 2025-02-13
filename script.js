@@ -27,7 +27,7 @@ noButton.addEventListener("click", function () {
 });
 
 function handleYesClick() {
-  titleElement.innerHTML = "Yeyyy wuvyuuuu";
+  titleElement.innerHTML = "Yeyyy wuvyuuuu 😘💖";
   buttonsContainer.classList.add("hidden");
   changeImage("yes");
 }
@@ -43,11 +43,11 @@ function resizeYesButton() {
 function generateMessage(noCount) {
   const messages = [
     "No",
-    "anong no?",
+    "anong no? 😒",
     "ngii",
-    "ihhhhh :(",
-    "sige",
-    "ihhh bibiii kasiiii",
+    "wag kasi to 😒",
+    "sige 😠",
+    "YES 😠😠",
   ];
 
   const messageIndex = Math.min(noCount, messages.length - 1);
